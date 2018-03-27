@@ -1,10 +1,14 @@
 {
-  "name": "jira-browser",
+  "name": "jira-graphs",
   "version": "1.0.0",
   "description": "",
   "scripts": {
     "start": "tsc && node dist/server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewskaggs/jira-graphs.git"
+  }, 
   "author": "andrew@andrewskaggs.com",
   "license": "ISC",
   "dependencies": {

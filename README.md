@@ -1,3 +1,3 @@
-# jira-browser
+# jira-graphs
 
-Tool to run some jira queries
+Tool to run some jira queries and make some pretty pictures
